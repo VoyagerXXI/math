@@ -44,4 +44,4 @@ Em um grupo de 13 estudantes temos 8 meninas e 5 meninos, ou seja, 3 meninas a m
 estudantes teremos exatamente 60 meninas a mais do que meninos. Logo, no total temos 20 × 13 = 260
 estudantes.
 ## Alternativa:
-* B
+* B) 260
