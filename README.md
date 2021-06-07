@@ -1,4 +1,6 @@
 # Matemática
+![Sim, nós podemos](fraseObama.jpg)
+
  básico de matemática, algumas questões e um pouco de programacao
  
 ## Mathplot
